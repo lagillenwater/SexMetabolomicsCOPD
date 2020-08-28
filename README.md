@@ -8,12 +8,12 @@ This repository contains the R code for the specific analyses outlined in the pa
 
 ### Required packages
 ```
-library(RNOmni)
-library(ggplot2)
 library(openxlsx)
 library(impute)
-library(openxlsx)
+library(RNOmni)
 library(WGCNA)
-
+library(ggplot2)
+library(ggrepel)
+library(ggbeeswarm)
 ```
 
